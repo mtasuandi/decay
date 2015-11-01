@@ -5,7 +5,7 @@ Famous sorting algorithms based on vote popularity and time implemented for PHP.
 
 ## Installation
 ```
-composer require mtasuandi/tiket-php dev-master
+composer require mtasuandi/decay dev-master
 ```
 
 ## Usage
