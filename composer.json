@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Famous sorting algorithms based on vote popularity and time implemented for PHP",
   "license": "MIT",
-  "keywords": ["decay", "", "tiket"],
+  "keywords": ["decay", "sorting algorithms"],
   "homepage": "https://github.com/mtasuandi/decay",
   "authors": [
     {
